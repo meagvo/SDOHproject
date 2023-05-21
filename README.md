@@ -1,0 +1,3 @@
+The goal of this project is to use Social Determinants of Health (SDoH) data by county available from
+[AHRQ](https://www.ahrq.gov/sdoh/data-analytics/sdoh-data.html) to look for relationships between specific variables and
+ED visit rate. Ultimately, I'd like to develop a predictive model with the top features related to a high ED rate. I decided to look at 2019 and 2020 data (2018 was not available).
